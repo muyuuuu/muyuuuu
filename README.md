@@ -1,5 +1,3 @@
-**Hi there 👋, I'm sunling, not a bot.**
-
 :point_right: I am currently a student of Xidian University, majoring in CS.
 
 - :running: Focus on **OS and DeepLearning** recently.
