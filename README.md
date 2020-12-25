@@ -5,5 +5,4 @@
 - :black_nib: Contribute some programs and notes.
 - :bust_in_silhouette: Contact me: lanlingrock#gmail.com
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muyuuuu&layout=compact)
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=muyuuuu&show_icons=true)
+<p><a href="#"><img src="https://github-readme-stats.vercel.app/api?username=muyuuuu&include_all_commits=true&show_icons=true&hide_rank=true&hide=contribs&title_color=5fd0ad&icon_color=5fd0ad" width="320px" height="170px"/></a> <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muyuuuu&layout=compact&card_width=262&title_color=5fd0ad" width="320px" height="170px"/></a></p>
