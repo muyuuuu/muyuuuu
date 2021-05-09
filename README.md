@@ -5,9 +5,9 @@
 - :black_nib: Contribute some programs and notes.
 - :bust_in_silhouette: Contact me: lanlingrock#gmail.com
 
-<p>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=muyuuuu&layout=compact&theme=onedark" />
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=muyuuuu&theme=onedark" />
-</p>
+<a href="https://github.com/muyuuuu">
+  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=onedark&username=muyuuuu&layout=compact" />
+</a>
+<a href="https://github.com/muyuuuu">
+  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?theme=onedark&username=muyuuuu&show_icons=true&include_all_commits=true" />
+</a>
