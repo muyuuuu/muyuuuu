@@ -7,7 +7,7 @@
 
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=muyuuuu&layout=compact&theme=onedark" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=muyuuuu&theme=onedark" />
 </p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muyuuuu&layout=compact&theme=onedark)
