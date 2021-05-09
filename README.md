@@ -8,6 +8,6 @@
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=muyuuuu&theme=onedark" />
-  </a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muyuuuu&theme=tokyonight" width="320px" height="170px"/></a>
 </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muyuuuu&layout=compact&theme=onedark)
