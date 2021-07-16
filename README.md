@@ -1,4 +1,4 @@
-:point_right: A student from North China University of Science and Technology, majoring in CS.
+:point_right: A student from Xidian University, majoring in CS.
 
 - :running: Focus on **OS and DeepLearning** recently.
 - :star: Main tools: python, C++, LaTeX
