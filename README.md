@@ -50,7 +50,7 @@ Hi there, I'm **Lan Ling**, A computer science graduate student from Xidian Univ
 - 🌱 I'm currently interested in object detection and tracking, federated learning, etc
 - 🤔 In terms of technology, I am fluent in python and studying C++ and Vim recently.
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via lanlingock [AT] gmail [dot] com
+- 📫 Please feel free to contact me via lanlingock [AT] gmail [dot] com if you want to do project or paiticipate competition with me. 
 - 📝 See my website: [blog](https://muyuuuu.github.io) to get more info.
 
 ![muyuuuu's github stats](https://github-readme-stats.vercel.app/api?username=muyuuuu&show_icons=true&hide_border=true&include_all_commits=true)
