@@ -32,7 +32,7 @@ Hi there, I'm **Lan Ling**, A computer science graduate student from Xidian Univ
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/220px-Python-logo-notext.svg.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/1599px-LaTeX_logo.svg.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Arch_Linux_logo.svg/250px-Arch_Linux_logo.svg.png"></code>
@@ -47,8 +47,8 @@ Hi there, I'm **Lan Ling**, A computer science graduate student from Xidian Univ
 **Talking about Personal Stuffs:**
 
 - 👨‍💻 I'm currently a student at Xidian University, engaged in adversarial samples research;
-- 🌱 I'm currently interested in object detection and tracking, federated learning, etc
-- 🤔 In terms of technology, I am fluent in python and studying C++ and Vim recently.
+- 🌱 I'm currently interested in object detection and tracking, federated learning, etc;
+- 🤔 In terms of technology, I am fluent in python and studying C++ and Vim recently;
 - 💬 Ask me about anything, I am happy to help;
 - 📝 See my website: [Just for Life](https://muyuuuu.github.io) to get more info.
 
