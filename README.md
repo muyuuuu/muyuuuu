@@ -28,7 +28,7 @@
 <!-- <br /> -->
 <!-- <br /> -->
 
-Hi there, I'm **Lan Ling**, A computer science graduate student from Xidian University, and focus on operating system and deeplearning recently. **Please feel free to contact me via lanlingock [AT] gmail [dot] com if you want to do project or paiticipate competition with me.** Languages and Tools:
+Hi there, I'm **Lan Ling**. I spent the best four years of my life in North China University of Science and Technology, and my supervisor is [Yan Shaohong](http://lxy.ncst.edu.cn/col/1587717370090/2020/04/26/1587851377899.html). Now I am a computer science graduate student from Xidian University and focusing on operating system and deeplearning recently. Languages and Tools:
 
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/220px-Python-logo-notext.svg.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
@@ -53,3 +53,5 @@ Hi there, I'm **Lan Ling**, A computer science graduate student from Xidian Univ
 <br />
 
 ![muyuuuu's Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=muyuuuu&langs_count=10&hide=Jupyter%20Notebook&hide_border=true&exclude_repo&layout=compact&custom_title=Most%20Used%20Languages%20(Top%2010))![muyuuuu's github stats](https://github-readme-stats.vercel.app/api?username=muyuuuu&show_icons=true&hide_border=true&include_all_commits=true)
+
+**Please feel free to contact me via lanlingock [AT] gmail [dot] com if you want to do project or paiticipate competition with me.**
