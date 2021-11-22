@@ -30,13 +30,13 @@
 
 Hi there, I'm **Lan Ling**. I spent the best four years of my life in North China University of Science and Technology, and my supervisor is [Yan Shaohong](http://lxy.ncst.edu.cn/col/1587717370090/2020/04/26/1587851377899.html). Now I am a computer science graduate student from Xidian University and focusing on operating system and deeplearning recently. Languages and Tools:
 
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/220px-Python-logo-notext.svg.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/1599px-LaTeX_logo.svg.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Arch_Linux_logo.svg/250px-Arch_Linux_logo.svg.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1088px-Vimlogo.svg.png"></code>
-<code><img height="30" src="https://www.qt.io/hubfs/qt-design-system/assets/logos/qt-logo.svg"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/220px-Python-logo-notext.svg.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/1599px-LaTeX_logo.svg.png"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Arch_Linux_logo.svg/250px-Arch_Linux_logo.svg.png"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Neovim-logo.svg"></code>
+<code><img height="40" src="https://www.qt.io/hubfs/qt-design-system/assets/logos/qt-logo.svg"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png"></code>
 
 
 <img align="right" alt="GIF" width="250px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
