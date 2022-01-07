@@ -28,7 +28,7 @@
 <!-- <br /> -->
 <!-- <br /> -->
 
-Hi there, I'm **Lan Ling**. I spent the best four years of my life in North China University of Science and Technology, and my supervisor is [Yan Shaohong](http://lxy.ncst.edu.cn/col/1587717370090/2020/04/26/1587851377899.html). Now I am a computer science graduate student from Xidian University and focusing on operating system and deeplearning recently. Languages and Tools:
+Hi there, I'm **Lan Ling**. Days at the North China University of Science and Technology is the deepest memories in my whole life, my supervisor is [Yan Shaohong](http://lxy.ncst.edu.cn/col/1587717370090/2020/04/26/1587851377899.html). Now I am a computer science graduate student from Xidian University and focusing on algorithm and deeplearning recently. Languages and Tools:
 
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/220px-Python-logo-notext.svg.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
