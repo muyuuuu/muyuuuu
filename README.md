@@ -40,19 +40,14 @@ Hi there, I'm **Lan Ling**. Days at the North China University of Science and Te
 <code><img height="30" src="https://www.qt.io/hubfs/qt-design-system/assets/logos/qt-logo.svg"></code>
 
 
-<img align="right" alt="GIF" width="250px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-<br />
+![muyuuuu's Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=muyuuuu&langs_count=10&hide=Jupyter%20Notebook&hide_border=true&exclude_repo&layout=compact&custom_title=Most%20Used%20Languages%20(Top%2010))![muyuuuu's github stats](https://github-readme-stats.vercel.app/api?username=muyuuuu&show_icons=true&hide_border=true&include_all_commits=true)
 
 **Talking about Personal Stuffs:**
 
 - 👨‍💻 I'm currently a student at Xidian University, engaged in adversarial samples research;
-- 🌱 I'm currently interested in object detection and tracking, federated learning, etc;
+- 🌱 I'm currently interested in object detection, os, performance improvement and deployment, etc;
 - 🤔 In terms of technology, I am fluent in python and studying C++ and Vim recently;
 - 💬 Ask me about anything, I am happy to help;
 - 📝 See my website: [Just for Life](https://muyuuuu.github.io) to get more info.
 
-<br />
-
-![muyuuuu's Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=muyuuuu&langs_count=10&hide=Jupyter%20Notebook&hide_border=true&exclude_repo&layout=compact&custom_title=Most%20Used%20Languages%20(Top%2010))![muyuuuu's github stats](https://github-readme-stats.vercel.app/api?username=muyuuuu&show_icons=true&hide_border=true&include_all_commits=true)
-
-**Please feel free to contact me via lanlingock [AT] gmail [dot] com if you want to do project or paiticipate competition with me.**
+**Please feel free to contact me via lanlingock [AT] gmail [dot] com if you want to do project with me.**
