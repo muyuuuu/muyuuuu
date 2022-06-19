@@ -28,7 +28,7 @@
 <!-- <br /> -->
 <!-- <br /> -->
 
-Hi there, I'm **Lan Ling**. Days at the North China University of Science and Technology is the deepest memories in my whole life, my supervisor is [Yan Shaohong](http://lxy.ncst.edu.cn/col/1587717370090/2020/04/26/1587851377899.html). Now I am a computer science graduate student from Xidian University and focusing on algorithm and deeplearning recently. Languages and Tools:
+Days at the North China University of Science and Technology is the deepest memories in my whole life, my supervisor is [Yan Shaohong](http://lxy.ncst.edu.cn/col/1587717135030/2020/04/26/1587851377899.html). Now I am a computer science graduate student from Xidian University and focusing on algorithm and deeplearning recently. Languages and Tools:
 
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/220px-Python-logo-notext.svg.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
@@ -44,7 +44,7 @@ Hi there, I'm **Lan Ling**. Days at the North China University of Science and Te
 
 **Talking about Personal Stuffs:**
 
-- 👨‍💻 I'm currently a student at Xidian University, engaged in adversarial samples research;
+- 👨‍💻 I'm currently a student at Xidian University, engaged in adversarial samples and continue learning research;
 - 🌱 I'm currently interested in object detection, os, performance improvement and deployment, etc;
 - 🤔 In terms of technology, I am fluent in python and studying C++ and Vim recently;
 - 💬 Ask me about anything, I am happy to help;
