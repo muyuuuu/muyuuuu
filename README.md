@@ -45,7 +45,7 @@ Days at the North China University of Science and Technology is the deepest memo
 **Talking about Personal Stuffs:**
 
 - 👨‍💻 I'm currently a student at Xidian University, engaged in adversarial samples and continue learning research;
-- 🌱 I'm currently interested in object detection, os, performance improvement and deployment, etc;
+- 🌱 I'm currently interested in os, performance improvement and deployment, etc;
 - 🤔 In terms of technology, I am fluent in python and studying C++ and Vim recently;
 - 💬 Ask me about anything, I am happy to help;
 - 📝 See my website: [Just for Life](https://muyuuuu.github.io) to get more info.
