@@ -51,3 +51,7 @@ Days at the North China University of Science and Technology is the deepest memo
 - 📝 See my website: [Just for Life](https://muyuuuu.github.io) to get more info.
 
 **Please feel free to contact me via lanlingock [AT] gmail [dot] com if you want to do project with me.**
+
+### Number of Visitors
+
+![muyuuuu](https://count.getloli.com/get/@muyuuuu)
