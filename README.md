@@ -34,9 +34,9 @@ Days at the North China University of Science and Technology is the deepest memo
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/1599px-LaTeX_logo.svg.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Arch_Linux_logo.svg/250px-Arch_Linux_logo.svg.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Archlinux-logo-standard-version.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Neovim-logo.svg"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg"></code>
 <code><img height="30" src="https://www.qt.io/hubfs/qt-design-system/assets/logos/qt-logo.svg"></code>
 
 
