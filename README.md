@@ -1,34 +1,9 @@
 ### Hey 👋, I'm lanling
 
-<!-- <a href="https://codeforces.com/profile/im0qianqian">
-  <img align="left" alt="im0qianqian's Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
-</a>
-<a href="https://leetcode.com/im0qianqian/">
-  <img align="left" alt="im0qianqian's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
-<a href="https://www.codechef.com/users/im0qianqian">
-  <img align="left" alt="im0qianqian's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
-</a>
-<a href="https://www.topcoder.com/members/im0qianqian">
-  <img align="left" alt="im0qianqian's TopCoder" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/topcoder.svg" />
-</a>
-<a href="https://www.zhihu.com/people/im0qianqian">
-  <img align="left" alt="im0qianqian's Zhihu" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/zhihu.svg" />
-</a>
-<a href="https://www.linkedin.com/in/%E5%89%8D-%E8%B5%B5-555166141/">
-  <img align="left" alt="im0qianqian's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/im0qianqian">
-  <img align="left" alt="im0qianqian's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://www.hackerrank.com/im0qianqian">
-  <img align="left" alt="im0qianqian's HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</a> -->
-
 <!-- <br /> -->
 <!-- <br /> -->
 
-Days at the North China University of Science and Technology is the deepest memories in my whole life, my supervisor is [Yan Shaohong](http://lxy.ncst.edu.cn/col/1587717135030/2020/04/26/1587851377899.html). Now I am a computer science graduate student who focus on algorithm and deeplearning recently. I will join Xiaomi in 2023. Languages and Tools:
+Days at the North China University of Science and Technology is the deepest memories in my whole life, my supervisor is [Yan Shaohong](http://lxy.ncst.edu.cn/col/1587717135030/2020/04/26/1587851377899.html). Languages and Tools:
 
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/220px-Python-logo-notext.svg.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
@@ -47,7 +22,7 @@ Days at the North China University of Science and Technology is the deepest memo
 - 👨‍💻 I'm currently a student engaged in adversarial samples and continue learning research;
 - 🌱 I'm currently interested in os, performance improvement and deployment, etc;
 - 🤔 In terms of technology, I am fluent in python and studying C++ and Vim recently;
-- 💬 Ask me about anything, I am happy to help;
+- 💬 Youth begins in 2010 and ends in 2022;
 - 📝 See my website: [Just for Life](https://muyuuuu.github.io) to get more info.
 
 **Please feel free to contact me via lanlingock [AT] gmail [dot] com if you want to do project with me.**
