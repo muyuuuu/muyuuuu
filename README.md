@@ -1,4 +1,4 @@
-### Hey 👋, I'm lanling
+### Hey 👋, I'm lanling   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=muyuuuu.muyuuuu">
 
 <!--[ <br />](https://weibo.com/u/6600574650) -->
 
@@ -15,8 +15,19 @@ Days at the North China University of Science and Technology is the deepest memo
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg"></code>
 <code><img height="30" src="https://www.qt.io/hubfs/qt-design-system/assets/logos/qt-logo.svg"></code>
 
+<table cellspacing="0" cellpadding="0">
+  <tr align="center" valign="middle">
+    <td><img width="100%" src="https://github-readme-stats.vercel.app/api?username=muyuuuu&count_private=true"></td>
+    <td><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=muyuuuu"></td>
+  </tr>
+</table>
 
-![muyuuuu's Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=muyuuuu&langs_count=10&hide=Jupyter%20Notebook&hide_border=true&exclude_repo&layout=compact&custom_title=Most%20Used%20Languages%20(Top%2010))![muyuuuu's github stats](https://github-readme-stats.vercel.app/api?username=muyuuuu&show_icons=true&hide_border=true&include_all_commits=true)
+<table cellspacing="0" cellpadding="0">
+  <tr align="center" valign="middle">
+    <td><img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=muyuuuu&theme=github-light"></td>
+  </tr>
+</table>
+
 
 **Talking about Personal Stuffs:**
 
@@ -27,7 +38,3 @@ Days at the North China University of Science and Technology is the deepest memo
 - 📝 See my website: [Just for Life](https://muyuuuu.github.io) to get more info.
 
 **Please feel free to contact me via lanlingock [AT] gmail [dot] com if you want to do project with me.**
-
-### Number of Visitors
-
-![muyuuuu](https://count.getloli.com/get/@muyuuuu)
