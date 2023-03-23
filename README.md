@@ -17,8 +17,8 @@ Days at the North China University of Science and Technology is the deepest memo
 
 <table cellspacing="0" cellpadding="0">
   <tr align="center" valign="middle">
-    <td><img width="100%" src="https://github-readme-stats.vercel.app/api?username=muyuuuu&count_private=true"></td>
-    <td><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=muyuuuu"></td>
+    <td><img align="left" src="https://github-readme-stats.vercel.app/api?username=muyuuuu&count_private=true"></td>
+    <td><img  src="https://github-readme-streak-stats.herokuapp.com?user=muyuuuu"></td>
   </tr>
 </table>
 
