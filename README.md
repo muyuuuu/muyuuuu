@@ -1,6 +1,7 @@
 ### Hey 👋, I'm lanling   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=muyuuuu.muyuuuu">
 
 <!--[ <br />](https://weibo.com/u/6600574650) -->
+<!-- -  Youth begins in 2010 and ends in 2022;-->
 
 <!-- <br /> -->
 
@@ -22,11 +23,13 @@ Days at the North China University of Science and Technology is the deepest memo
   </tr>
 </table>
 
+<!--
 <table cellspacing="0" cellpadding="0">
   <tr align="center" valign="middle">
     <td><img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=muyuuuu&theme=github-light"></td>
   </tr>
 </table>
+-->
 
 
 **Talking about Personal Stuffs:**
@@ -34,7 +37,8 @@ Days at the North China University of Science and Technology is the deepest memo
 - 👨‍💻 I'm currently a student engaged in adversarial samples and continue learning research;
 - 🌱 I'm currently interested in os, performance improvement and deployment, etc;
 - 🤔 In terms of technology, I am fluent in python and studying C++ and Vim recently;
-- 💬 Youth begins in 2010 and ends in 2022;
+- 💬 Currently working at [Xiaomi](https://www.mi.com/index.html) for mobile HPC;
 - 📝 See my website: [Just for Life](https://muyuuuu.github.io) to get more info.
+
 
 **Please feel free to contact me via lanlingock [AT] gmail [dot] com if you want to do project with me.**
