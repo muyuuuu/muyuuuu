@@ -35,7 +35,7 @@
 **Alumni or Colleagues**
 
 - :walking: 2016-2020, Days at the [North China University of Science and Technology](https://www.ncst.edu.cn/) is the deepest memories in my whole life, my supervisor is [Yan Shaohong](http://lxy.ncst.edu.cn/col/1587717135030/2020/04/26/1587851377899.html)
-- :running: 2023-now, working at [XiaoMI](https://hr.xiaomi.com/campus) as a CV algorithm engineer for camera
+- :running: 2023-now, working at [XiaoMI](https://hr.xiaomi.com/campus) as a computer vision algorithm engineer for camera
 
 **Talking about Personal Stuffs:**
 
@@ -43,6 +43,5 @@
 - 🌱 I'm currently interested in os, neon, opencl, performance improvement and deployment, etc;
 - 🤔 In terms of technology, I am fluent in python and studying C++ and Vim recently;
 - 📝 See my website: [Just for Life](https://muyuuuu.github.io) to get more info.
-
 
 **Please feel free to contact me via lanlingock [AT] gmail [dot] com if you want to do project with me.**
