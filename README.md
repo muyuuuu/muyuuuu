@@ -5,7 +5,7 @@
 
 <!-- <br /> -->
 
-Days at the North China University of Science and Technology is the deepest memories in my whole life, my supervisor is [Yan Shaohong](http://lxy.ncst.edu.cn/col/1587717135030/2020/04/26/1587851377899.html). Languages and Tools:
+**Tools & Status:**
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/220px-Python-logo-notext.svg.png"></code>
@@ -32,13 +32,17 @@ Days at the North China University of Science and Technology is the deepest memo
 </table>
 -->
 
+**Alumni or Colleagues**
+
+- :walking: 2016-2020, Days at the [North China University of Science and Technology](https://www.ncst.edu.cn/) is the deepest memories in my whole life, my supervisor is [Yan Shaohong](http://lxy.ncst.edu.cn/col/1587717135030/2020/04/26/1587851377899.html)
+- :runner:  2020-2023, [Xidian University](https://www.xidian.edu.cn/) as a postgraduate
+- :running: 2023-now, working at [XiaoMI](https://hr.xiaomi.com/campus) as a CV algorithm engineer for mobile HPC;
 
 **Talking about Personal Stuffs:**
 
 - 👨‍💻 I engaged in adversarial samples and continue learning research in my previous school days;
 - 🌱 I'm currently interested in os, neon, opencl, performance improvement and deployment, etc;
 - 🤔 In terms of technology, I am fluent in python and studying C++ and Vim recently;
-- 💬 Currently working at [XiaoMI](https://www.mi.com/index.html) as a CV algorithm engineer for mobile high performance computing;
 - 📝 See my website: [Just for Life](https://muyuuuu.github.io) to get more info.
 
 
