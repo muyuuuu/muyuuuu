@@ -13,6 +13,7 @@
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Archlinux-logo-standard-version.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/7/77/Arm_logo_2017.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenCL_logo.svg"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/en/b/b9/Nvidia_CUDA_Logo.jpg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png"></code>
 <code><img height="30" src="https://www.qt.io/hubfs/qt-design-system/assets/logos/qt-logo.svg"></code>
@@ -40,7 +41,7 @@
 **Talking about Personal Stuffs:**
 
 - 👨‍💻 I engaged in adversarial samples and continue learning research in my previous school days;
-- 🌱 I'm currently interested in os, neon, opencl, performance improvement and deployment, etc;
+- 🌱 I'm currently interested in neon, opencl, cuda, performance improvement and program architecture, etc;
 - 🤔 In terms of technology, I am fluent in python and studying C++ and Vim recently;
 - 📝 See my website: [Just for Life](https://muyuuuu.github.io) to get more info.
 
