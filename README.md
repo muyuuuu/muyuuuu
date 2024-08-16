@@ -35,7 +35,7 @@
 
 **Alumni or Colleagues**
 
-- :rowboat: 2016-2020, Days at the [North China University of Science and Technology](https://www.ncst.edu.cn/) is the deepest memories in my whole life, my supervisor is [Yan Shaohong](http://lxy.ncst.edu.cn/col/1587717135030/2020/04/26/1587851377899.html)
+- :rowboat: 2016-2020, Days at the [North China University of Science and Technology](https://www.ncst.edu.cn/) is the deepest memories in my whole life, my supervisor is [Yan Shaohong](http://lxy.ncst.edu.cn/col/1587717135030/2020/04/26/1587851377899.html), but ... 学生朽木
 - :boat: 2020-2023, School of Computer Science and Technology, [XDU](https://cs.xidian.edu.cn/index.htm)
 - :speedboat: 2023-now, working at [XiaoMI](https://hr.xiaomi.com/campus) as a CV algorithm engineer in camera department, responsible for heterogeneous and high-performance computing during the process of algorithm deployment
   
