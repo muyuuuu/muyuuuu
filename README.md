@@ -47,4 +47,6 @@
 - 🤔 In terms of technology, I am fluent in python and studying C++ and Vim recently;
 - 📝 See my website: [Just for Life](https://muyuuuu.github.io) to get more info.
 
+ ![](profile-3d-contrib/profile-south-season-animate.svg)
+
 **Please feel free to contact me via lanlingock [AT] gmail [dot] com if you want to do project with me.**
