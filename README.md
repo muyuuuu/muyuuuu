@@ -38,8 +38,9 @@
 - :rowboat: 2016-2020, Days at the [North China University of Science and Technology](https://www.ncst.edu.cn/) is the deepest memories in my whole life, my supervisor is [Yan Shaohong](http://lxy.ncst.edu.cn/col/1587717135030/2020/04/26/1587851377899.html), but ... 学生朽木
 - :boat: 2020-2023, School of Computer Science and Technology, <img height="20" align="top" src="https://raw.githubusercontent.com/note286/xdulogo/refs/heads/main/%E8%A5%BF%E7%94%B5%E6%96%B0%E6%A0%87%E5%BF%971-%E7%BA%A2%E8%89%B2-%E9%80%8F%E6%98%8E.png">
   [XDU](https://cs.xidian.edu.cn/index.htm)
-- :speedboat: 2023-now, working at <img height="20" align="top" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Xiaomi_logo_%282021-%29.svg" alt="Xiaomi Logo"> [XiaoMI](https://hr.xiaomi.com/campus) as a CV algorithm engineer in camera department, responsible for heterogeneous and high-performance computing
-  
+- :speedboat: 2023.07-2025.07, working at <img height="20" align="top" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Xiaomi_logo_%282021-%29.svg" alt="Xiaomi Logo"> [XiaoMI](https://hr.xiaomi.com/campus) as a CV algorithm engineer in camera department, responsible for heterogeneous and high-performance computing
+- :ship: 2025-future, working at [Alibaba](https://ali-home.alibaba.com/about-alibaba) as a algorithm engineer in intelligent engine department, applied high-performance distributed training to TaoTian business
+
 **Talking about Personal Stuffs:**
 
 - 👨‍💻 I engaged in adversarial samples and continue learning research in my previous school days;
