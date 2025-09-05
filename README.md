@@ -36,10 +36,10 @@
 **Alumni or Colleagues**
 
 - :rowboat: 2016-2020, Days at the [North China University of Science and Technology](https://www.ncst.edu.cn/) is the deepest memories in my whole life, my supervisor is [Yan Shaohong](http://lxy.ncst.edu.cn/col/1587717135030/2020/04/26/1587851377899.html), but ... 学生朽木
-- :boat: 2020-2023, School of Computer Science and Technology, <img height="20" align="top" src="https://raw.githubusercontent.com/note286/xdulogo/refs/heads/main/%E8%A5%BF%E7%94%B5%E6%96%B0%E6%A0%87%E5%BF%971-%E7%BA%A2%E8%89%B2-%E9%80%8F%E6%98%8E.png">
+- :boat: 2020-2023, School of Computer Science and Technology, <img height="18" align="top" src="https://raw.githubusercontent.com/note286/xdulogo/refs/heads/main/%E8%A5%BF%E7%94%B5%E6%96%B0%E6%A0%87%E5%BF%971-%E7%BA%A2%E8%89%B2-%E9%80%8F%E6%98%8E.png">
   [XDU](https://cs.xidian.edu.cn/index.htm)
-- :speedboat: 2023.07-2025.07, working at <img height="20" align="top" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Xiaomi_logo_%282021-%29.svg" alt="Xiaomi Logo"> [XiaoMI](https://hr.xiaomi.com/campus) as a CV algorithm engineer in camera department, responsible for heterogeneous and high-performance computing
-- :ship: 2025-future, working at <img height="20" align="top" src="https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-1/301486611_5317447644959583_4173764355163588926_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=103&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=tN2dAYZ3Y7oQ7kNvwFSDDHf&_nc_oc=Admsji2G6JVZ0BOcJMyUW0dFkHB4N7J0-3SalbCIq--KyK3T1G9xlJ7Tehd8aAL-CTM&_nc_zt=24&_nc_ht=scontent-tpe1-1.xx&_nc_gid=CBJQWhJyse-T-W8kYRhBtA&oh=00_AfMAxJ3tTHjUxp9YWOziLUaFsQBirApW2NuEri88lUqxeA&oe=68631353" alt="ali Logo"> [Alibaba](https://ali-home.alibaba.com/about-alibaba) as a algorithm engineer in intelligent engine department, applied high-performance distributed training to TaoTian business
+- :speedboat: 2023.07-2025.07, working at <img height="18" align="top" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Xiaomi_logo_%282021-%29.svg" alt="Xiaomi Logo"> [XiaoMI](https://hr.xiaomi.com/campus) as a CV algorithm engineer in camera department, responsible for heterogeneous and high-performance computing
+- :ship: 2025-future, working at <img height="18" style="vertical-align: middle; margin: 0 4px;" src="https://img.alicdn.com/imgextra/i3/O1CN0142TQdV1xQemVfEl4s_!!6000000006438-2-tps-1960-960.png" alt="ali Logo"> [Alibaba](https://ali-home.alibaba.com/about-alibaba) as a algorithm engineer in intelligent engine department, applied high-performance distributed training to TaoTian business
 
 **Talking about Personal Stuffs:**
 
