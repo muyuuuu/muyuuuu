@@ -37,10 +37,10 @@
 **Alumni or Colleagues**
 
 - :rowboat: 2016-2020, Days at the [North China University of Science and Technology](https://www.ncst.edu.cn/) is the deepest memories in my whole life, my supervisor is [Yan Shaohong](http://lxy.ncst.edu.cn/col/1587717135030/2020/04/26/1587851377899.html), but ... 学生朽木
-- :boat: 2020-2023, School of Computer Science and Technology, <img height="18" align="top" src="https://raw.githubusercontent.com/note286/xdulogo/refs/heads/main/%E8%A5%BF%E7%94%B5%E6%96%B0%E6%A0%87%E5%BF%971-%E7%BA%A2%E8%89%B2-%E9%80%8F%E6%98%8E.png">
+- :boat: 2020-2023, School of Computer Science and Technology, <img height="14" align="top" src="https://raw.githubusercontent.com/note286/xdulogo/refs/heads/main/%E8%A5%BF%E7%94%B5%E6%96%B0%E6%A0%87%E5%BF%971-%E7%BA%A2%E8%89%B2-%E9%80%8F%E6%98%8E.png">
   [XDU](https://cs.xidian.edu.cn/index.htm)
-- :speedboat: 2023.07-2025.07, worked on high-performance computing for <img height="18" style="vertical-align: middle; margin: 0 4px;" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Xiaomi_logo_%282021-%29.svg" alt="Xiaomi Logo"> [XiaoMI](https://hr.xiaomi.com/campus) Camera, where I deployed algorithms including portrait mode, facecolor, auto exposure, dehazing, night scene snapshot, and super-resolution to Xiaomi smartphones such as the XiaoMI 14, 15, and 17 series.
-- :ship: 2025-future, working at <img height="18" style="vertical-align: middle; margin: 0 4px;" src="https://cdn.brandfetch.io/id_eF5X4DY/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="ali Logo"> [Alibaba](https://ali-home.alibaba.com/about-alibaba)(AiCheng), responsible for large-scale distributed training in search, advertising, and recommendation systems, with a primary focus on [RecIS](https://github.com/alibaba/RecIS/blob/main/README_zh.md)
+- :speedboat: 2023.07-2025.07, worked on high-performance computing for <img height="14" style="vertical-align: middle; margin: 0 4px;" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Xiaomi_logo_%282021-%29.svg" alt="Xiaomi Logo"> [XiaoMI](https://hr.xiaomi.com/campus) Camera, where I deployed algorithms including portrait mode, facecolor, auto exposure, dehazing, night scene snapshot, and super-resolution to Xiaomi smartphones such as the XiaoMI 14, 15, and 17 series.
+- :ship: 2025-future, working at <img height="14" style="vertical-align: middle; margin: 0 4px;" src="https://cdn.brandfetch.io/id_eF5X4DY/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="ali Logo"> [Alibaba](https://ali-home.alibaba.com/about-alibaba)(AiCheng), responsible for large-scale distributed training in search, advertising, and recommendation systems, with a primary focus on [RecIS](https://github.com/alibaba/RecIS/blob/main/README_zh.md)
 
 **Talking about Personal Stuffs:**
 
