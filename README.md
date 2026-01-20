@@ -8,12 +8,13 @@
 **Tools & Status:**
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/220px-Python-logo-notext.svg.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/1599px-LaTeX_logo.svg.png"></code>
+<code><img height="30" src="https://www.c-language.org/logo.svg"></code>
+<code><img height="30" src="https://www.python.org/static/img/python-logo.png"></code>
+<code><img height="30" src="https://www.latex-project.org/img/latex-project-logo.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Archlinux-logo-standard-version.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/7/77/Arm_logo_2017.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenCL_logo.svg"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/en/b/b9/Nvidia_CUDA_Logo.jpg"></code>
+<code><img height="30" src="https://docs.nvidia.com/cuda/cuda-programming-guide/_static/nvidia-logo-horiz-rgb-1c-blk-for-screen.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png"></code>
 <code><img height="30" src="https://www.qt.io/hubfs/qt-design-system/assets/logos/qt-logo.svg"></code>
@@ -38,8 +39,8 @@
 - :rowboat: 2016-2020, Days at the [North China University of Science and Technology](https://www.ncst.edu.cn/) is the deepest memories in my whole life, my supervisor is [Yan Shaohong](http://lxy.ncst.edu.cn/col/1587717135030/2020/04/26/1587851377899.html), but ... 学生朽木
 - :boat: 2020-2023, School of Computer Science and Technology, <img height="18" align="top" src="https://raw.githubusercontent.com/note286/xdulogo/refs/heads/main/%E8%A5%BF%E7%94%B5%E6%96%B0%E6%A0%87%E5%BF%971-%E7%BA%A2%E8%89%B2-%E9%80%8F%E6%98%8E.png">
   [XDU](https://cs.xidian.edu.cn/index.htm)
-- :speedboat: 2023.07-2025.07, working at <img height="18" align="top" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Xiaomi_logo_%282021-%29.svg" alt="Xiaomi Logo"> [XiaoMI](https://hr.xiaomi.com/campus) as a CV algorithm engineer in camera department, responsible for heterogeneous and high-performance computing
-- :ship: 2025-future, working at <img height="18" style="vertical-align: middle; margin: 0 4px;" src="https://img.alicdn.com/imgextra/i3/O1CN0142TQdV1xQemVfEl4s_!!6000000006438-2-tps-1960-960.png" alt="ali Logo"> [Alibaba](https://ali-home.alibaba.com/about-alibaba) as a algorithm engineer in intelligent engine department, applied high-performance distributed training to TaoTian business
+- :speedboat: 2023.07-2025.07, worked on high-performance computing for <img height="18" style="vertical-align: middle; margin: 0 4px;" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Xiaomi_logo_%282021-%29.svg" alt="Xiaomi Logo"> [XiaoMI](https://hr.xiaomi.com/campus) Camera, where I deployed algorithms including portrait mode, facecolor, auto exposure, dehazing, night scene snapshot, and super-resolution to Xiaomi smartphones such as the XiaoMI 14, 15, and 17 series.
+- :ship: 2025-future, working at <img height="18" style="vertical-align: middle; margin: 0 4px;" src="https://cdn.brandfetch.io/id_eF5X4DY/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="ali Logo"> [Alibaba](https://ali-home.alibaba.com/about-alibaba)(AiCheng), responsible for large-scale distributed training in search, advertising, and recommendation systems, with a primary focus on [RecIS](https://github.com/alibaba/RecIS/blob/main/README_zh.md)
 
 **Talking about Personal Stuffs:**
 
