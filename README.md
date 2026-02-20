@@ -1,38 +1,22 @@
 ### Hey 👋, I'm lanling   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=muyuuuu.muyuuuu">
 
 <!--[ <br />](https://weibo.com/u/6600574650) -->
-<!-- -  Youth begins in 2010 and ends in 2022;-->
-
-<!-- <br /> -->
 
 **Tools & Status:**
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="30" src="https://www.c-language.org/logo.svg"></code>
-<code><img height="30" src="https://www.python.org/static/img/python-logo.png"></code>
-<code><img height="30" src="https://www.latex-project.org/img/latex-project-logo.svg"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Archlinux-logo-standard-version.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/7/77/Arm_logo_2017.svg"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenCL_logo.svg"></code>
-<code><img height="30" src="https://docs.nvidia.com/cuda/cuda-programming-guide/_static/nvidia-logo-horiz-rgb-1c-blk-for-screen.svg"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png"></code>
-<code><img height="30" src="https://www.qt.io/hubfs/qt-design-system/assets/logos/qt-logo.svg"></code>
-
-<table cellspacing="0" cellpadding="0">
-  <tr align="center" valign="middle">
-    <td><img align="left" src="https://github-readme-stats.vercel.app/api?username=muyuuuu&count_private=true"></td>
-    <td><img  src="https://github-readme-streak-stats.herokuapp.com?user=muyuuuu"></td>
-  </tr>
-</table>
-
-<!--
-<table cellspacing="0" cellpadding="0">
-  <tr align="center" valign="middle">
-    <td><img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=muyuuuu&theme=github-light"></td>
-  </tr>
-</table>
--->
+<p align="left">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" height="28" alt="C++" style="margin-right: 10px;" />
+  <img src="https://www.c-language.org/logo.svg" height="28" alt="C" style="margin-right: 10px;" />
+  <img src="https://www.python.org/static/img/python-logo.png" height="28" alt="Python" style="margin-right: 10px;" />
+  <img src="https://www.latex-project.org/img/latex-project-logo.svg" height="28" alt="LaTeX" style="margin-right: 10px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Archlinux-logo-standard-version.png" height="28" alt="Arch Linux" style="margin-right: 10px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Arm_logo_2017.svg" height="28" alt="ARM" style="margin-right: 10px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenCL_logo.svg" height="28" alt="OpenCL" style="margin-right: 10px;" />
+  <img src="https://docs.nvidia.com/cuda/cuda-programming-guide/_static/nvidia-logo-horiz-rgb-1c-blk-for-screen.svg" height="28" alt="CUDA" style="margin-right: 10px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" height="28" alt="Vim" style="margin-right: 10px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" height="28" alt="PyTorch" style="margin-right: 10px;" />
+  <img src="https://www.qt.io/hubfs/qt-design-system/assets/logos/qt-logo.svg" height="28" alt="Qt" />
+</p>
 
 **Alumni or Colleagues**
 
@@ -43,6 +27,11 @@
 - :ship: 2025-future, working at <img height="14" style="vertical-align: middle; margin: 0 4px;" src="https://cdn.brandfetch.io/id_eF5X4DY/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="ali Logo"> [Alibaba](https://ali-home.alibaba.com/about-alibaba)(AiCheng), responsible for large-scale distributed training in search, advertising, and recommendation systems, with a primary focus on [RecIS](https://github.com/alibaba/RecIS/blob/main/README_zh.md)
 
 **Talking about Personal Stuffs:**
+
+<table cellspacing="0" cellpadding="0">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=muyuuuu&theme=dark&show_icons=true">
+    <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=muyuuuu&show_icons=true">
+</table>
 
 - 👨‍💻 I engaged in adversarial samples and continue learning research in my previous school days;
 - 🌱 I'm currently interested in neon, opencl, cuda, performance improvement and program architecture, etc;
